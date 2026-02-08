@@ -8,14 +8,6 @@ As a **Pop!_OS (Linux)** enthusiast and a dual-role individual (Employee & Stude
 
 ---
 
-### 🚀 What I'm Up To
-- **🔭 Current Challenge:** I've committed to a **"One Project Per Week"** challenge to build, understand, and publish a new Data Science project every 7 days.
-- **🌱 Currently Learning:** Deepening my understanding of **Linear Algebra**, **Calculus III**, and **OOP in Java**.
-- **🛠️ Side Project:** Working on **"Khawarzim"**, a custom programming language I'm developing in C++.
-- **📝 Writing:** Drafting a technical deep-dive on the landscape of AI models in 2026.
-
----
-
 ### 🛠️ Tech Stack & Tools
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Ali Aldahmani! 👋
 
-<!--
-**Ali-Aldahmani/Ali-Aldahmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 AI Engineering Student & Aspiring Researcher
 
-Here are some ideas to get you started:
+I am currently pursuing my Bachelor's in **Artificial Intelligence** at the **American University of Ras Al Khaimah (AURAK)**. I'm passionate about bridging the gap between theoretical mathematics and practical AI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a **Pop!_OS (Linux)** enthusiast and a dual-role individual (Employee & Student), I am documenting my journey from the basics of Python to advanced Deep Learning.
+
+---
+
+### 🚀 What I'm Up To
+- **🔭 Current Challenge:** I've committed to a **"One Project Per Week"** challenge to build, understand, and publish a new Data Science project every 7 days.
+- **🌱 Currently Learning:** Deepening my understanding of **Linear Algebra**, **Calculus III**, and **OOP in Java**.
+- **🛠️ Side Project:** Working on **"Khawarzim"**, a custom programming language I'm developing in C++.
+- **📝 Writing:** Drafting a technical deep-dive on the landscape of AI models in 2026.
+
+---
+
+### 🛠️ Tech Stack & Tools
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+**AI & Data Science:**
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white)
+
+**Environment:**
+![Linux](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Linux&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+
+---
+
+### ⚡ Fun Facts
+- 🇦🇪 I am a huge supporter of Emirati AI developments (like the **Falcon** model).
+- 🏋️ When I'm not training models, I'm training myself! I enjoy home workouts and walking to stay active.
+- 🐧 I switched to Linux for AI development and haven't looked back.
+
+---
+<p align="left">
+<a href="[https://linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/ali-aldahmani-9a2739298/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-aldahmani" height="30" width="40" /></a>
+</p>

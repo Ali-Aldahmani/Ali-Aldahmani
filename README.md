@@ -35,3 +35,10 @@ As a **Pop!_OS (Linux)** enthusiast and a dual-role individual (Employee & Stude
 <a href="[https://linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/ali-aldahmani-9a2739298/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-aldahmani" height="30" width="40" /></a>
 <a href="[https://twitter.com/YOUR-TWITTER-HANDLE](https://x.com/alialdahmani95)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ali-aldahmani" height="30" width="40" /></a>
 </p>
+---
+---
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Ali-Aldahmani&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Aldahmani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>

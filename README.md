@@ -36,9 +36,11 @@ As a **Pop!_OS (Linux)** enthusiast and a dual-role individual (Employee & Stude
 <a href="[https://twitter.com/YOUR-TWITTER-HANDLE](https://x.com/alialdahmani95)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ali-aldahmani" height="30" width="40" /></a>
 </p>
 ---
----
+
 ### 📊 GitHub Stats
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Ali-Aldahmani&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali's Github Stats" />
+</p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Aldahmani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>

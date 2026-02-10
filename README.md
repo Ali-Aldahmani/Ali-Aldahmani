@@ -9,10 +9,12 @@ As a **Pop!_OS (Linux)** enthusiast and a dual-role individual (Employee & Stude
 ---
 
 ### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=gnu&logoColor=white)
 
 **AI & Data Science:**
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)

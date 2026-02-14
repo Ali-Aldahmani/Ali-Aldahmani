@@ -1,38 +1,55 @@
-# Hi there, I'm Ali Aldahmani! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Ali+Saeed!+👋;AI+Systems+Developer+%7C+Deep+Learning+%7C+FastAPI;Building+Intelligent+Systems+%7C+Python+%7C+ML" />
+</h1>
 
-### 👨‍💻 AI Engineering Student & Aspiring Researcher
-
-I am currently pursuing my Bachelor's in **Artificial Intelligence** at the **American University of Ras Al Khaimah (AURAK)**. I'm passionate about bridging the gap between theoretical mathematics and practical AI applications.
-
-As a **Pop!_OS (Linux)** enthusiast and a dual-role individual (Employee & Student), I am documenting my journey from the basics of Python to advanced Deep Learning.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Engineer-00F7FF?style=for-the-badge&logo=OpenAI&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-9D00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-FastAPI-00F7FF?style=for-the-badge&logo=fastapi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-Expert-9D00FF?style=for-the-badge&logo=python&logoColor=yellow"/>
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=gnu&logoColor=white)
+### 🧑‍💻 About Me
+I am pursuing my Bachelor's in **Artificial Intelligence** at **AURAK**.  
+Passionate about bridging **theoretical mathematics** and **practical AI applications**.  
 
-**AI & Data Science:**
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white)
+- 💻 Dual-role: Employee & Student  
+- 🐧 Linux / Pop!_OS enthusiast  
+- 🔬 Focus: Deep Learning, ML, Backend Systems
 
-**Environment:**
-![Linux](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Linux&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,git,linux,docker" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=9D00FF&text_color=ffffff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=9D00FF&currStreakLabel=00F7FF"/>
+</p>
 
 ---
 
 ### ⚡ Fun Facts
-- 🇦🇪 I am a huge supporter of Emirati AI developments (like the **Falcon** model).
-- 🏋️ When I'm not training models, I'm training myself! I enjoy home workouts and walking to stay active.
-- 🐧 I switched to Linux for AI development and haven't looked back.
+- 🏋️ Home workouts & active lifestyle  
+- 🐧 Switched to Linux for AI dev — never looked back  
 
 ---
-<p align="left">
-<a href="[https://linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/ali-aldahmani-9a2739298/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-aldahmani" height="30" width="40" /></a>
-<a href="[https://twitter.com/YOUR-TWITTER-HANDLE](https://x.com/alialdahmani95)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ali-aldahmani" height="30" width="40" /></a>
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://x.com/alialdahmani95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00F7FF&style=for-the-badge"/>
 </p>

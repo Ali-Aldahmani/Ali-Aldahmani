@@ -11,6 +11,8 @@
 </p>
 
 ---
+# My Skills 🚀
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3eXN4eXN4eXN4eXN4eXN4/3o7TKMGpxxZ2Zp3Y3u/giphy.gif" width="50">
 
 ### 🧑‍💻 About Me
 I am pursuing my Bachelor's in **Artificial Intelligence** at **AURAK**.  

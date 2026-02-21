@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Ali+Saeed!+👋;AI+Systems+Developer+%7C+Deep+Learning+%7C+FastAPI;Building+Intelligent+Systems+%7C+Python+%7C+ML" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BBE0EF&width=435&lines=Hi+there%2C+I'm+Ali+Aldahmani!%F0%9F%91%8B;Passionate+about+AI+development+%26+mathematics)](https://git.io/typing-svg)
 </h1>
 
 <p align="center">

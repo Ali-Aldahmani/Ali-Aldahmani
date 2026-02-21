@@ -11,19 +11,6 @@
 </p>
 
 ---
-# My Skills 🚀
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shahriar-007/Shahriar-007/main/assets/python.gif" width="50" title="Python">
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Shahriar-007/Shahriar-007/main/assets/java.gif" width="50" title="Java">
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Shahriar-007/Shahriar-007/main/assets/cplusplus.gif" width="50" title="C++">
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Shahriar-007/Shahriar-007/main/assets/html.gif" width="50" title="HTML">
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Shahriar-007/Shahriar-007/main/assets/css.gif" width="50" title="CSS">
-</p>
 
 ### 🧑‍💻 About Me
 I am pursuing my Bachelor's in **Artificial Intelligence** at **AURAK**.  

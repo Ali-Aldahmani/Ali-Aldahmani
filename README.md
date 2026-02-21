@@ -13,7 +13,7 @@
 ---
 # My Skills 🚀
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Shahriar-007/Shahriar-007/main/assets/python.gif" width="50" title="Python">
   &nbsp;
   <img src="https://raw.githubusercontent.com/Shahriar-007/Shahriar-007/main/assets/java.gif" width="50" title="Java">

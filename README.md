@@ -1,7 +1,4 @@
-<h1 align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BBE0EF&width=435&lines=Hi+there%2C+I'm+Ali+Aldahmani!%F0%9F%91%8B;Passionate+about+AI+development+%26+mathematics)](https://git.io/typing-svg)
-</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BBE0EF&width=435&lines=Hi+there%2C+I'm+Ali+Aldahmani!%F0%9F%91%8B;Passionate+about+AI+development+%26+mathematics)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Engineer-00F7FF?style=for-the-badge&logo=OpenAI&logoColor=black"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-9D00FF?style=for-the-badge"/>
